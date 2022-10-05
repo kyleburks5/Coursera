@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @kyleburks5
 - 👀 I’m interested in data analytics
 - 🌱 I’m currently learning data analyst tools 
+- This is my courseera repository displaying my work from my courses
 - 📫 How to reach me:
 email: kyle.burks1@gmail.com
 
